@@ -1,0 +1,9 @@
+session before
+module before
+class before
+投资前余额 302710757
+投资金额 10000
+投资后余额 302700757
+class after
+module after
+session after
